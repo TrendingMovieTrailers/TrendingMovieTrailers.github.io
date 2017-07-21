@@ -1,0 +1,52 @@
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+#header {
+  background-color: #c2ceff;
+  width: 10 px;
+  color: black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.post {
+  text-align: left;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px; 
+}
+
+.post li {
+  border: 1px solid green;
+  width: 100px; 
+  padding: 3px;
+  border-radius: 3px;
+  margin-top: 5px;
+  display: inline;
+}
+
+.post ul {
+  display: inline;
+}
+
+.post h2
+{
+  display: inline;
+}
+
+.post img {
+  display: block;
+}
